@@ -19,3 +19,5 @@ Java部分
 				RenameMess.java 测试 renameTo 重命名方法
 			2015-1-26
 				BulbbleSort.java 冒泡排序
+			2015-1-27
+				duotaiarray-*	多态数组的demo
