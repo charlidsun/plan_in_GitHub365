@@ -23,3 +23,5 @@ Java部分
 				duotaiarray-*	多态数组的demo
 			2015-1-28
 				StringDemo.java 字符串相关操作
+			2015-1-29
+				RunnableDemo.java 窗体的gui事件
