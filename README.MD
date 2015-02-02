@@ -29,6 +29,6 @@
 ####2015-1-30
 				thisfunc-* 构造函数示例
 ####2015-1-31
-				文件夹 Threaddemo 线程的操作
+				文件夹 Threaddemo 线程的操作 DemoThread.java 继承Thread的线程实现
 ####2015-2-1
-				文件夹 Threaddemo 线程的操作
+				文件夹 Threaddemo 线程的操作 DemoRunnable.java 使用Runnable接口实现线程
