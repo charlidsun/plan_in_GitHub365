@@ -32,3 +32,5 @@
 				文件夹 Threaddemo 线程的操作 DemoThread.java 继承Thread的线程实现
 ####2015-2-1
 				文件夹 Threaddemo 线程的操作 DemoRunnable.java 使用Runnable接口实现线程
+####2015-2-2 
+				文件夹 JFrame 窗体的实现。 creat_jframe 窗口的创建
