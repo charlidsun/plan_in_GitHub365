@@ -54,6 +54,7 @@
 #### 2015-2-9
 				label_image_demo.java 容器里为 标签组建 JLabel 和图片组件 Icon 
 				
+##tips  2015－2-10删除 下次为按钮组件等形式的实现
 
 
 
